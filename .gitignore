@@ -1,0 +1,19 @@
+# python virtual environment directory
+/[Vv]irtualenv/
+
+# compiled python bytecode
+*.pyc
+
+# SQLite database used in Django for development
+/djangojsonsample/db.sqlite3
+
+# collection of static files
+/djangojsonsample/static/
+
+# vim temporary files
+*.swp
+*.swo
+*~
+
+# local backup files
+*-backup
